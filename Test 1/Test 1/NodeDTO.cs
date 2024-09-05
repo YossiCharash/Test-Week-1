@@ -8,6 +8,7 @@ namespace Test_1
 {
     public class NodeDTO
     {
+        //this the type for basic tipe
         public int MinSeverity { get; set; }
         public int MaxSeverity { get; set; }
         public string[] Defenses { get; set; }
